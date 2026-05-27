@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC2100-TA:TMC2100-TA",
+  "name": "TMC2100-TA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC2100-TA.kicad_sym",
+  "description": "Standalone driver for two-phase bipolar stepper motor, 2.0A, 4.75-46V, TQFP-48",
+  "datasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2100_datasheet_Rev1.08.pdf",
+  "keywords": "Standalone driver stepper motor",
+  "footprint": "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC2100-TA/",
+  "part_path": "parts/TMC2100-TA",
+  "symbol_file": "parts/TMC2100-TA/TMC2100-TA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.271Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/L293D:L293D",
+  "name": "L293D",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/L293D.kicad_sym",
+  "description": "Quadruple Half-H Drivers",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/l293.pdf",
+  "keywords": "Half-H Driver Motor",
+  "footprint": "Package_DIP:DIP-16_W7.62mm",
+  "extends": "L293",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/L293D/",
+  "part_path": "parts/L293D",
+  "symbol_file": "parts/L293D/L293D.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.081Z"
+}

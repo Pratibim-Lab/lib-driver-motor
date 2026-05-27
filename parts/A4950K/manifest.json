@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/A4950K:A4950K",
+  "name": "A4950K",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/A4950K.kicad_sym",
+  "description": "Full-Bridge, DMOS PWM, Motor Driver, 40V, 3.5A, -40 to +125C",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Datasheets/A4950-Datasheet.ashx",
+  "keywords": "full-bridge h-bridge",
+  "footprint": "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm",
+  "extends": "A4950E",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/A4950K/",
+  "part_path": "parts/A4950K",
+  "symbol_file": "parts/A4950K/A4950K.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.921Z"
+}

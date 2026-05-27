@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/SLA7044M:SLA7044M",
+  "name": "SLA7044M",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/SLA7044M.kicad_sym",
+  "description": "Unipolar PWM high-current motor driver",
+  "datasheet": "http://www.sumzi.com/upload/files/2007/07/2007073114282034189.PDF",
+  "keywords": "Stepper driver",
+  "footprint": "Package_SIP:SLA704XM",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/SLA7044M/",
+  "part_path": "parts/SLA7044M",
+  "symbol_file": "parts/SLA7044M/SLA7044M.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.198Z"
+}

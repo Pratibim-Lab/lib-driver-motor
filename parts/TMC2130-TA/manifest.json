@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC2130-TA:TMC2130-TA",
+  "name": "TMC2130-TA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC2130-TA.kicad_sym",
+  "description": "Driver for two-phase bipolar stepper motor, 2.0A, SPI, 4.75-46V, TQFP-48",
+  "datasheet": "http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2130_datasheet.pdf",
+  "keywords": "stepper motor driver",
+  "footprint": "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC2130-TA/",
+  "part_path": "parts/TMC2130-TA",
+  "symbol_file": "parts/TMC2130-TA/TMC2130-TA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.280Z"
+}

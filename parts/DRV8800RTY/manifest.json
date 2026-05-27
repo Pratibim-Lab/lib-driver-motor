@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8800RTY:DRV8800RTY",
+  "name": "DRV8800RTY",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8800RTY.kicad_sym",
+  "description": "H-Bridge Motor Driver, WQFN-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/drv8801.pdf",
+  "keywords": "H-Bridge Motor Driver",
+  "footprint": "Package_DFN_QFN:Texas_RTY_WQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8800RTY/",
+  "part_path": "parts/DRV8800RTY",
+  "symbol_file": "parts/DRV8800RTY/DRV8800RTY.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.994Z"
+}

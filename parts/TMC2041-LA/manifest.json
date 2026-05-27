@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC2041-LA:TMC2041-LA",
+  "name": "TMC2041-LA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC2041-LA.kicad_sym",
+  "description": "Standalone Dual driver for two-phase bipolar stepper motor, 2.2A, 4.75-26V, SPI, UART, QFN-48",
+  "datasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf",
+  "keywords": "Dual driver stepper motor",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC2041-LA/",
+  "part_path": "parts/TMC2041-LA",
+  "symbol_file": "parts/TMC2041-LA/TMC2041-LA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.257Z"
+}

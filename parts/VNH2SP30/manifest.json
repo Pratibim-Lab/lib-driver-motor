@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/VNH2SP30:VNH2SP30",
+  "name": "VNH2SP30",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/VNH2SP30.kicad_sym",
+  "description": "Full Bridge Motor Driver, 41V, 30A, -40 to 150C",
+  "datasheet": "http://www.st.com/content/ccc/resource/technical/document/datasheet/group2/66/b8/f5/2c/9a/66/41/c7/CD00043711/files/CD00043711.pdf/jcr:content/translations/en.CD00043711.pdf",
+  "keywords": "full-bridge h-bridge",
+  "footprint": "Package_SO:ST_MultiPowerSO-30",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/VNH2SP30/",
+  "part_path": "parts/VNH2SP30",
+  "symbol_file": "parts/VNH2SP30/VNH2SP30.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.323Z"
+}

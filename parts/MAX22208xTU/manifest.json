@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/MAX22208xTU:MAX22208xTU",
+  "name": "MAX22208xTU",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/MAX22208xTU.kicad_sym",
+  "description": "65V / 3.8A Quad Half H-Bridge Drivers with Integrated Current Sense, WQFN-38",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max22208.pdf",
+  "keywords": "Analog-Devices Maxim-Integrated",
+  "footprint": "Package_DFN_QFN:WQFN-38-1EP_5x7mm_P0.5mm_EP3.65x5.65mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/MAX22208xTU/",
+  "part_path": "parts/MAX22208xTU",
+  "symbol_file": "parts/MAX22208xTU/MAX22208xTU.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.159Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/SLA7077MPRT:SLA7077MPRT",
+  "name": "SLA7077MPRT",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/SLA7077MPRT.kicad_sym",
+  "description": "Unipolar 2-phase stepper motor driver, Microstep, 2A",
+  "datasheet": "http://www.semicon.sanken-ele.co.jp/sk_content/sla7077mprt_ds_en.pdf",
+  "keywords": "Stepper driver",
+  "footprint": "",
+  "extends": "SLA7075MPRT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/SLA7077MPRT/",
+  "part_path": "parts/SLA7077MPRT",
+  "symbol_file": "parts/SLA7077MPRT/SLA7077MPRT.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.218Z"
+}

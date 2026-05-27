@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/MP6536DU:MP6536DU",
+  "name": "MP6536DU",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/MP6536DU.kicad_sym",
+  "description": "3-Channel Half-Bridge Driver, 5..26V power supply, 5.5A peak current output, up to 1MHz PWM frequency, QFN-40",
+  "datasheet": "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP6536/document_id/3761/",
+  "keywords": "BLDC 3-Phase Brushless DC Motor Controller",
+  "footprint": "Package_DFN_QFN:VQFN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/MP6536DU/",
+  "part_path": "parts/MP6536DU",
+  "symbol_file": "parts/MP6536DU/MP6536DU.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.174Z"
+}

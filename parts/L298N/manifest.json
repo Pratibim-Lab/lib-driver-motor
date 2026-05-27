@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/L298N:L298N",
+  "name": "L298N",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/L298N.kicad_sym",
+  "description": "Dual full bridge motor driver, up to 46V, 4A, Multiwatt15-V",
+  "datasheet": "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf",
+  "keywords": "H-bridge motor driver",
+  "footprint": "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical",
+  "extends": "L298HN",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/L298N/",
+  "part_path": "parts/L298N",
+  "symbol_file": "parts/L298N/L298N.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.120Z"
+}

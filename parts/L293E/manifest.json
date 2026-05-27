@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/L293E:L293E",
+  "name": "L293E",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/L293E.kicad_sym",
+  "description": "Push-pull four-channel driver, DIP-20",
+  "datasheet": "https://www.st.com/resource/en/datasheet/l293e.pdf",
+  "keywords": "Half-H Driver Motor Sense",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/L293E/",
+  "part_path": "parts/L293E",
+  "symbol_file": "parts/L293E/L293E.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.091Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8871DDA:DRV8871DDA",
+  "name": "DRV8871DDA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8871DDA.kicad_sym",
+  "description": "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/drv8871.pdf",
+  "keywords": "H-bridge driver motor current limit",
+  "footprint": "Package_SO:Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8871DDA/",
+  "part_path": "parts/DRV8871DDA",
+  "symbol_file": "parts/DRV8871DDA/DRV8871DDA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.043Z"
+}

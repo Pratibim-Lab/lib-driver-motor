@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/MAX22201:MAX22201",
+  "name": "MAX22201",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/MAX22201.kicad_sym",
+  "description": "36V, 3.5A Brushed Motor Driver with Integrated Current Sense and Configurable Off Time, 12-TDFN",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max22201-max22207.pdf",
+  "keywords": "Brushed Motor Driver",
+  "footprint": "Package_DFN_QFN:Maxim_TDFN-12-1EP_3x3mm_P0.5mm_EP1.7x2.5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/MAX22201/",
+  "part_path": "parts/MAX22201",
+  "symbol_file": "parts/MAX22201/MAX22201.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.140Z"
+}

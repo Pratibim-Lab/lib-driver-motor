@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC2130-LA:TMC2130-LA",
+  "name": "TMC2130-LA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC2130-LA.kicad_sym",
+  "description": "Driver for two-phase bipolar stepper motor, 2.0A, SPI, 4.75-46V, QFN-36",
+  "datasheet": "http://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2130_datasheet.pdf",
+  "keywords": "stepper motor driver",
+  "footprint": "Package_DFN_QFN:QFN-36-1EP_5x6mm_P0.5mm_EP3.6x4.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC2130-LA/",
+  "part_path": "parts/TMC2130-LA",
+  "symbol_file": "parts/TMC2130-LA/TMC2130-LA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.276Z"
+}

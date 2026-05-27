@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/EMC2305-x-AP:EMC2305-x-AP",
+  "name": "EMC2305-x-AP",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/EMC2305-x-AP.kicad_sym",
+  "description": "Multiple RPM-Based PWM Fan Controller for 5 Fans, up to 26 kHz, 3.3V power supply, VQFN-16",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/EMC2301-2-3-5-Data-Sheet-DS20006532A.pdf",
+  "keywords": "DRIVER MOTOR SMBus I2C 4-wire",
+  "footprint": "Package_DFN_QFN:Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/EMC2305-x-AP/",
+  "part_path": "parts/EMC2305-x-AP",
+  "symbol_file": "parts/EMC2305-x-AP/EMC2305-x-AP.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.067Z"
+}

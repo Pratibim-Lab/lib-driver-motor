@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/VNH5019A-E:VNH5019A-E",
+  "name": "VNH5019A-E",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/VNH5019A-E.kicad_sym",
+  "description": "Full Bridge Motor Driver, 41V, 30A, -40 to 150C, MultiPowerSO-30",
+  "datasheet": "https://www.st.com/resource/en/datasheet/vnh5019a-e.pdf",
+  "keywords": "full-bridge h-bridge",
+  "footprint": "Package_SO:ST_MultiPowerSO-30",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/VNH5019A-E/",
+  "part_path": "parts/VNH5019A-E",
+  "symbol_file": "parts/VNH5019A-E/VNH5019A-E.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.327Z"
+}

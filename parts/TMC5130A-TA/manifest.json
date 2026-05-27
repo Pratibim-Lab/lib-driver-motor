@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC5130A-TA:TMC5130A-TA",
+  "name": "TMC5130A-TA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC5130A-TA.kicad_sym",
+  "description": "Power Driver For Stepper Motors, 2.0A, 4.75-46V, TQFP-48",
+  "datasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC5130_datasheet_Rev1.17.pdf",
+  "keywords": "Standalone driver stepper motor",
+  "footprint": "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC5130A-TA/",
+  "part_path": "parts/TMC5130A-TA",
+  "symbol_file": "parts/TMC5130A-TA/TMC5130A-TA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.316Z"
+}

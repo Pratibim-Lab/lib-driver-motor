@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/Pololu_Breakout_A4988:Pololu_Breakout_A4988",
+  "name": "Pololu_Breakout_A4988",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/Pololu_Breakout_A4988.kicad_sym",
+  "description": "Pololu Breakout Board, Stepper Driver A4988",
+  "datasheet": "https://www.pololu.com/product/2980/pictures",
+  "keywords": "Pololu Breakout Board Stepper Driver A4988",
+  "footprint": "Module:Pololu_Breakout-16_15.2x20.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/Pololu_Breakout_A4988/",
+  "part_path": "parts/Pololu_Breakout_A4988",
+  "symbol_file": "parts/Pololu_Breakout_A4988/Pololu_Breakout_A4988.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.186Z"
+}

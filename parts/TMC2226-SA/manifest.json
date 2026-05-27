@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC2226-SA:TMC2226-SA",
+  "name": "TMC2226-SA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC2226-SA.kicad_sym",
+  "description": "Power Driver For Stepper Motors, 2.0A, 4.75-29V, HTSSOP-28",
+  "datasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2226_datasheet_rev1.10.pdf",
+  "keywords": "Standalone driver stepper motor",
+  "footprint": "Package_SO:HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.75x6.2mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC2226-SA/",
+  "part_path": "parts/TMC2226-SA",
+  "symbol_file": "parts/TMC2226-SA/TMC2226-SA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.305Z"
+}

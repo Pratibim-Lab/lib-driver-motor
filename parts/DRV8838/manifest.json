@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8838:DRV8838",
+  "name": "DRV8838",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8838.kicad_sym",
+  "description": "H-Bridge driver, 1.8A, Low Voltage, PH/EN input, WSON-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/drv8837.pdf",
+  "keywords": "half bridge driver",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8838/",
+  "part_path": "parts/DRV8838",
+  "symbol_file": "parts/DRV8838/DRV8838.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.022Z"
+}

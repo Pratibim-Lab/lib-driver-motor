@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TC78H670FTG:TC78H670FTG",
+  "name": "TC78H670FTG",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TC78H670FTG.kicad_sym",
+  "description": "Bipolar stepping motor driver IC, QFN-16",
+  "datasheet": "https://toshiba.semicon-storage.com/info/TC78H670FTG_datasheet_en_20210209.pdf?did=68606&prodName=TC78H670FTG",
+  "keywords": "stepping motor driver",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TC78H670FTG/",
+  "part_path": "parts/TC78H670FTG",
+  "symbol_file": "parts/TC78H670FTG/TC78H670FTG.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.252Z"
+}

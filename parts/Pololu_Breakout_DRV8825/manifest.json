@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/Pololu_Breakout_DRV8825:Pololu_Breakout_DRV8825",
+  "name": "Pololu_Breakout_DRV8825",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/Pololu_Breakout_DRV8825.kicad_sym",
+  "description": "Pololu Breakout Board, Stepper Driver DRV8825",
+  "datasheet": "https://www.pololu.com/product/2982",
+  "keywords": "Pololu Breakout Board Stepper Driver DRV8825",
+  "footprint": "Module:Pololu_Breakout-16_15.2x20.3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/Pololu_Breakout_DRV8825/",
+  "part_path": "parts/Pololu_Breakout_DRV8825",
+  "symbol_file": "parts/Pololu_Breakout_DRV8825/Pololu_Breakout_DRV8825.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.190Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/A4954:A4954",
+  "name": "A4954",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/A4954.kicad_sym",
+  "description": "Fullbridge PWM Motor Driver, UVLO, OCP, Current Limit, Short Circuit Protection, TSSOP-16",
+  "datasheet": "https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx",
+  "keywords": "Fullbridge, Stepper Driver",
+  "footprint": "Package_SO:TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/A4954/",
+  "part_path": "parts/A4954",
+  "symbol_file": "parts/A4954/A4954.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.925Z"
+}

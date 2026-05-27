@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8461SPWP:DRV8461SPWP",
+  "name": "DRV8461SPWP",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8461SPWP.kicad_sym",
+  "description": "65V, 3A SPI Stepper motor controller with integrated MOSFETs, automatic torque, automatic microstep, HTSSOP-28",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/drv8461.pdf",
+  "keywords": "texas ti microstep driver silent STEP DIR",
+  "footprint": "Package_SO:Texas_PWP0020A",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8461SPWP/",
+  "part_path": "parts/DRV8461SPWP",
+  "symbol_file": "parts/DRV8461SPWP/DRV8461SPWP.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.983Z"
+}

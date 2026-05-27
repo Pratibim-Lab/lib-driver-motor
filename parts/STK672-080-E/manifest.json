@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/STK672-080-E:STK672-080-E",
+  "name": "STK672-080-E",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/STK672-080-E.kicad_sym",
+  "description": "Stepper motor driver with microstepping controller, 2.8A",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/EN6507-D.PDF",
+  "keywords": "Stepper driver",
+  "footprint": "Package_SIP:STK672-080-E",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/STK672-080-E/",
+  "part_path": "parts/STK672-080-E",
+  "symbol_file": "parts/STK672-080-E/STK672-080-E.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.231Z"
+}

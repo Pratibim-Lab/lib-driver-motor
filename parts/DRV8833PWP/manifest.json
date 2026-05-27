@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8833PWP:DRV8833PWP",
+  "name": "DRV8833PWP",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8833PWP.kicad_sym",
+  "description": "Dual H-Bridge Motor Driver, HTSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/drv8833.pdf",
+  "keywords": "H-bridge motor driver",
+  "footprint": "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8833PWP/",
+  "part_path": "parts/DRV8833PWP",
+  "symbol_file": "parts/DRV8833PWP/DRV8833PWP.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.005Z"
+}

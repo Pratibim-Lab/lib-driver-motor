@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/EMC2302-x-AIZL:EMC2302-x-AIZL",
+  "name": "EMC2302-x-AIZL",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/EMC2302-x-AIZL.kicad_sym",
+  "description": "Dual RPM-Based PWM Fan Controller, up to 26 kHz, 3.3V power supply, MSOP-10",
+  "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/EMC2301-2-3-5-Data-Sheet-DS20006532A.pdf",
+  "keywords": "DRIVER MOTOR SMBus I2C 4-wire",
+  "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/EMC2302-x-AIZL/",
+  "part_path": "parts/EMC2302-x-AIZL",
+  "symbol_file": "parts/EMC2302-x-AIZL/EMC2302-x-AIZL.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.058Z"
+}

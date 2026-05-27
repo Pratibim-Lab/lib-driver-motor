@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/PG001M:PG001M",
+  "name": "PG001M",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/PG001M.kicad_sym",
+  "description": "Parallel to serial data converter for SLA7042M/SLA7044M",
+  "datasheet": "http://www.allegromicro.com/~/media/Files/Sanken/Datasheets/PG001M-Datasheet.ashx",
+  "keywords": "Support IC for SLA7042M/SLA7044M",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/PG001M/",
+  "part_path": "parts/PG001M",
+  "symbol_file": "parts/PG001M/PG001M.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.183Z"
+}

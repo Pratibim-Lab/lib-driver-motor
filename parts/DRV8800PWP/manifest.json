@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8800PWP:DRV8800PWP",
+  "name": "DRV8800PWP",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8800PWP.kicad_sym",
+  "description": "H-Bridge Motor Driver, TSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/drv8801.pdf",
+  "keywords": "H-Bridge Motor Driver",
+  "footprint": "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8800PWP/",
+  "part_path": "parts/DRV8800PWP",
+  "symbol_file": "parts/DRV8800PWP/DRV8800PWP.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.991Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC2660:TMC2660",
+  "name": "TMC2660",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC2660.kicad_sym",
+  "description": "Standalone driver for two-phase bipolar stepper motor, 0-30V, 2.4A, LQFP-44",
+  "datasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2660_datasheet_Rev1.07.pdf",
+  "keywords": "Standalone driver stepper motor",
+  "footprint": "Package_QFP:LQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC2660/",
+  "part_path": "parts/TMC2660",
+  "symbol_file": "parts/TMC2660/TMC2660.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.311Z"
+}

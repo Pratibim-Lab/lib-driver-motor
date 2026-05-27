@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/SLA7078MPRT:SLA7078MPRT",
+  "name": "SLA7078MPRT",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/SLA7078MPRT.kicad_sym",
+  "description": "Unipolar 2-phase stepper motor driver, Microstep, 3A",
+  "datasheet": "http://www.semicon.sanken-ele.co.jp/sk_content/sla7078mprt_ds_en.pdf",
+  "keywords": "Stepper driver",
+  "footprint": "",
+  "extends": "SLA7075MPRT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/SLA7078MPRT/",
+  "part_path": "parts/SLA7078MPRT",
+  "symbol_file": "parts/SLA7078MPRT/SLA7078MPRT.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.222Z"
+}

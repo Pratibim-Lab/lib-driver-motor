@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/ZXBM5210-SP:ZXBM5210-SP",
+  "name": "ZXBM5210-SP",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/ZXBM5210-SP.kicad_sym",
+  "description": "Reversible DC motor drive with speed control, 3-18V, 0.85A, SOIC-8EP",
+  "datasheet": "https://www.diodes.com/assets/Datasheets/ZXBM5210.pdf",
+  "keywords": "H-bridge motor driver PWM single coil",
+  "footprint": "Package_SO:Diodes_SO-8EP",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/ZXBM5210-SP/",
+  "part_path": "parts/ZXBM5210-SP",
+  "symbol_file": "parts/ZXBM5210-SP/ZXBM5210-SP.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.335Z"
+}

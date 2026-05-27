@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/CP2119L:CP2119L",
+  "name": "CP2119L",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/CP2119L.kicad_sym",
+  "description": "H-Bridge brushed DC motor driver driver with current limit, 5A, 3..18Vm, 71mOhm RDSon, 30kHz PWM input, SO-8",
+  "datasheet": "https://lcsc.com/datasheet/lcsc_datasheet_2504101957_XBLW-CP2119LDTR-XBLW_C42395498.pdf",
+  "keywords": "full-bridge driver XLBW Xinbole",
+  "footprint": "Package_SO:SO-8_3.9x4.9mm_P1.27mm",
+  "extends": "CP3119M",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/CP2119L/",
+  "part_path": "parts/CP2119L",
+  "symbol_file": "parts/CP2119L/CP2119L.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.930Z"
+}

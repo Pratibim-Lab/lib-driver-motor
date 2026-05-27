@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8662:DRV8662",
+  "name": "DRV8662",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8662.kicad_sym",
+  "description": "Piezo Haptic Driver with Integrated Boost Converter",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/drv8662.pdf",
+  "keywords": "piezo driver boost",
+  "footprint": "Package_DFN_QFN:Texas_RGP0020D_VQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8662/",
+  "part_path": "parts/DRV8662",
+  "symbol_file": "parts/DRV8662/DRV8662.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.987Z"
+}

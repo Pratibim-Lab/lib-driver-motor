@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8220DSG:DRV8220DSG",
+  "name": "DRV8220DSG",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8220DSG.kicad_sym",
+  "description": "H-Bridge motor driver, 4.5..18V, 1.76A, selectable control interface, WSON-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/drv8220.pdf",
+  "keywords": "PWM PH/EN half-bridge low-power-sleep",
+  "footprint": "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8220DSG/",
+  "part_path": "parts/DRV8220DSG",
+  "symbol_file": "parts/DRV8220DSG/DRV8220DSG.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.943Z"
+}

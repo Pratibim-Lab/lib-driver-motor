@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/L297:L297",
+  "name": "L297",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/L297.kicad_sym",
+  "description": "Stepper Motor Controller, DIP-20/SO-20",
+  "datasheet": "www.st.com/resource/en/datasheet/cd00000063.pdf",
+  "keywords": "Stepper Motor Controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/L297/",
+  "part_path": "parts/L297",
+  "symbol_file": "parts/L297/L297.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.106Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/A4952_LY:A4952_LY",
+  "name": "A4952_LY",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/A4952_LY.kicad_sym",
+  "description": "Full-Bridge, DMOS PWM, Motor Driver, 40V, 2A, MSOP-10",
+  "datasheet": "www.allegromicro.com/~/media/Files/Datasheets/A4952-3-Datasheet.ashx?la=en",
+  "keywords": "Full-bridge h-bridge",
+  "footprint": "Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.73x1.98mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/A4952_LY/",
+  "part_path": "parts/A4952_LY",
+  "symbol_file": "parts/A4952_LY/A4952_LY.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.922Z"
+}

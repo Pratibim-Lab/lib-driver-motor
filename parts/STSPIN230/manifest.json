@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/STSPIN230:STSPIN230",
+  "name": "STSPIN230",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/STSPIN230.kicad_sym",
+  "description": "Low voltage triple half-bridge motor driver, 1.8V to 10V input, 1.3Arms output, 0.4Ω Rdson per phase (typical), QFN-16 package",
+  "datasheet": "www.st.com/resource/en/datasheet/stspin230.pdf",
+  "keywords": "motor driver half-bridge",
+  "footprint": "Package_DFN_QFN:VQFN-16-1EP_3x3mm_P0.5mm_EP1.8x1.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/STSPIN230/",
+  "part_path": "parts/STSPIN230",
+  "symbol_file": "parts/STSPIN230/STSPIN230.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.237Z"
+}

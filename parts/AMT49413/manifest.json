@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/AMT49413:AMT49413",
+  "name": "AMT49413",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/AMT49413.kicad_sym",
+  "description": "3-Phase BLDC Controller and MOSFET Driver, QFN-48",
+  "datasheet": "https://www.allegromicro.com/-/media/Files/Datasheets/AMT49413-Datasheet.ashx",
+  "keywords": "BLDC 3-Phase",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/AMT49413/",
+  "part_path": "parts/AMT49413",
+  "symbol_file": "parts/AMT49413/AMT49413.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.927Z"
+}

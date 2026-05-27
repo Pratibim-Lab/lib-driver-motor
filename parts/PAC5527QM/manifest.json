@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/PAC5527QM:PAC5527QM",
+  "name": "PAC5527QM",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/PAC5527QM.kicad_sym",
+  "description": "48V Charge Pump Motor Controller and Driver for BLDC Motors, QFN-48",
+  "datasheet": "https://www.qorvo.com/products/d/da006847",
+  "keywords": "mcu motor driver",
+  "footprint": "Package_DFN_QFN:Qorvo_TQFN66-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/PAC5527QM/",
+  "part_path": "parts/PAC5527QM",
+  "symbol_file": "parts/PAC5527QM/PAC5527QM.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.180Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8220DRL:DRV8220DRL",
+  "name": "DRV8220DRL",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8220DRL.kicad_sym",
+  "description": "H-Bridge motor driver, 4.5..18V, 1.76A, SOT-563",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/drv8220.pdf",
+  "keywords": "PWM low-power-sleep",
+  "footprint": "Package_TO_SOT_SMD:SOT-563",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8220DRL/",
+  "part_path": "parts/DRV8220DRL",
+  "symbol_file": "parts/DRV8220DRL/DRV8220DRL.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.940Z"
+}

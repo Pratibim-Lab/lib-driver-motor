@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC2209-LA:TMC2209-LA",
+  "name": "TMC2209-LA",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC2209-LA.kicad_sym",
+  "description": "2-phase stepper motor driver, 256 µSteps, 2.8A peak, 2.0A RMS, VS = 4.75..29V, STEP/DIR and UART interface, VQFN-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/TMC2209_datasheet_rev1.09.pdf",
+  "keywords": "ADI-Trinamic Analog-Devices",
+  "footprint": "Package_DFN_QFN:VQFN-28-1EP_5x5mm_P0.5mm_EP3.7x3.7mm_ThermalVias",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC2209-LA/",
+  "part_path": "parts/TMC2209-LA",
+  "symbol_file": "parts/TMC2209-LA/TMC2209-LA.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.295Z"
+}

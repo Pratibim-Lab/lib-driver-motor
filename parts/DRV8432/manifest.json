@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/DRV8432:DRV8432",
+  "name": "DRV8432",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/DRV8432.kicad_sym",
+  "description": "Dual Full-Bridge PWM Motor Driver 50V 2x12A Peak, HSOP-36, Slug-up",
+  "datasheet": "https://www.ti.com/lit/gpn/DRV8412",
+  "keywords": "Dual Full-Bridge PWM Motor Driver",
+  "footprint": "Package_SO:HSOP-36-1EP_11.0x15.9mm_P0.65mm_SlugUp",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/DRV8432/",
+  "part_path": "parts/DRV8432",
+  "symbol_file": "parts/DRV8432/DRV8432.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:25.979Z"
+}

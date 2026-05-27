@@ -1,0 +1,17 @@
+{
+  "id": "Driver_Motor/TMC262:TMC262",
+  "name": "TMC262",
+  "library": "Driver_Motor",
+  "file": "Driver_Motor.kicad_symdir/TMC262.kicad_sym",
+  "description": "Driver for two-phase stepper motors with external mosfet",
+  "datasheet": "https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC262_Datasheet.pdf",
+  "keywords": "trinamic tlc262 stepper",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-driver-motor@master/parts/TMC262/",
+  "part_path": "parts/TMC262",
+  "symbol_file": "parts/TMC262/TMC262.kicad_sym",
+  "source_library": "Driver_Motor.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:26.308Z"
+}
